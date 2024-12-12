@@ -49,4 +49,7 @@ The competition is proposed for inclusion in NeurIPS 2025.
 
 You can take part in the competition as:
 - Participant: The competition is expected to be released mid of 2025
-- Sponsor: We invite companies and organizations to sponsor the competition. 
+- Sponsor: We invite companies and organizations to sponsor the competition.
+
+## Contact
+If you are interested in the project, feel free to contact us via the following email: [c.andriotis@tudelft.nl](mailto:c.andriotis@tudelft.nl?subject=IMP-act%20Challenge)
